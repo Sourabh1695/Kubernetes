@@ -2,4 +2,4 @@
 
 # Architecture of Kubernetes
 
-![Uploading image.png…]()
+![Uploading image.png…]
